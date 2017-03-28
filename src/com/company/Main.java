@@ -7,5 +7,6 @@ public class Main {
 		System.out.print("Hello World");
 		System.out.print("Project Diva");
 		System.out.print("Project Rock");
+		System.out.print("Project Classic");
 	}
 }
