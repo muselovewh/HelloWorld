@@ -8,6 +8,8 @@ public class Main {
 		System.out.print("Project Diva");
 		System.out.print("Project Rock");
 		System.out.print("Project Classic");
+		System.out.print("Merge complete");
+		System.out.print("Hello! GitHub");
 		System.out.print("Hello! Local repository");
 	}
 }
